@@ -1,0 +1,22 @@
+{
+  "name": "suestories",
+  "version": "0.0.0",
+  "homepage": "https://github.com/AndyCErnst/suestories",
+  "authors": [
+    "Andy Ernst <andycernst@gmail.com>"
+  ],
+  "description": "a blogging app in Angular",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.2.23"
+  }
+}
