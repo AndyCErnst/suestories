@@ -1,0 +1,24 @@
+{
+  "name": "Suestories",
+  "version": "1.0.0",
+  "description": "A blogging/story-hosting app in Angular.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndyCErnst/suestories.git"
+  },
+  "keywords": [
+    "angular",
+    "blog",
+    "single-page"
+  ],
+  "author": "AndyCErnst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyCErnst/suestories/issues"
+  },
+  "homepage": "https://github.com/AndyCErnst/suestories"
+}
